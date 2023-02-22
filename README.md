@@ -13,7 +13,7 @@ This project utilizes six CSV files that hold employee and company data during t
 2. **Data Engineering** 
 
   - Table schemas
-  - Foriegn Keys
+  - Foreign Keys
   - Constraints
   - Import each CSV file into its corresponding SQL table
 
